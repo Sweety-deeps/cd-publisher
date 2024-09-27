@@ -16,6 +16,6 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.3.1" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\cdpublisher.tests\cdpublisher.tests.csproj" />
+    <ProjectReference Include="..\..\src\test\cdpublisher.tests\cdpublisher.tests.csproj" />
   </ItemGroup>
 </Project>
